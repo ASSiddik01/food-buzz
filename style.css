@@ -30,6 +30,9 @@ a {
     padding: 15px 35px;
     border-radius: 50px;
 }
+.anchor_button:hover {
+    color: #000;
+}
 
 .half_width img {
     width: 100%;
@@ -153,8 +156,8 @@ section#receips h2, section#receips p {
 
 .section_title {
     text-align: center;
-    width: 40%;
-    margin-left: 33.33%;
+    width: 60%;
+    margin-left: 20.33%;
     margin-bottom: 50px;
 }
 
